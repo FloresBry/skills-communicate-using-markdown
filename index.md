@@ -9,5 +9,10 @@ if respuesta == "si":
 else:
   print("NO")
 ```
+- [ ] Empezar a aprender laravel
+- [ ] Empezar a aprender phpest
+- [ ] Empezar a aprender framework de css
+      
+
 
 
